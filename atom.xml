@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo_cyy</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-03-25T13:51:11.993Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>cyy</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown语法学习笔记</title>
+    <link href="http://yoursite.com/2017/02/03/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yoursite.com/2017/02/03/Markdown语法学习笔记/</id>
+    <published>2017-02-03T07:01:02.000Z</published>
+    <updated>2017-03-25T13:51:11.993Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Markdown学习笔记"><a href="#Markdown学习笔记" class="headerlink" title="Markdown学习笔记"></a>Markdown学习笔记</h2><h3 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h3><blockquote><p>对于一个弄潮的年轻人来讲，最幸运的，莫过于赶上一波大潮。 –《浪潮之巅》</p></blockquote><p>身处互联网时代，心潮澎湃，看风起云涌，以码为桨信念为帆，不甘寂寞，勇做弄潮儿。</p><p>搭建博客的时候天气还很闷热，但迟迟未能动笔，究其原因不外乎对写作的抵触，<br>一直以来都很羡慕写作能力强的人，尤其是技术作家，写作和编程在本质上<br>是相通的，都是把基础的元素（文字或对象）通过某种规则排列组合形成符合逻辑的实例。<br>逐步提高<br>一晃几个月过去了，此刻已经是早春时节，该有个交待了<br>内心的呼唤促使我在这个乍暖还寒的夜晚发表这篇博客，记录此刻的心情。<br>突然想要静下心来书写一篇技术博客，却成为我内心的呼唤，起源于某一天我“代码诗人”的描述<br>互联网精神中最重要的一点就是共享资源，对于我而言，<br>技术就是资源，把技术的积累和工作的感悟通过博客记录下来，我<br>潜心研究互联网技术将成为我的主题，技术分享对我而言已经<br>互联网的分享精神使我受益匪浅，虽然在生活中我不是一个乐于分享的人，但是在技术方面我想成为一个乐于分享的人</p><p>在各种技术博客的熏陶中我学到了很多，我自己也十分想要成为一名技术博客原创作者，<br>在第一篇博客中将自己学习Markdown的笔记分享出来，开启我的技术博客新纪元。<br>的目前博客写作者用的最多，在第一篇博客中我也想</p><p>Markdown是由约翰·格鲁伯(John Gruber)在2004年创造的一种轻量级文本标记语言。<br>它允许人们<br><em>“使用易读写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。</em><br>借助于它，烦琐的格式设置被极大简化，写作者可以更加专注于内容的创作。<br>格式转换非常方便，根据需要轻松转换为HTML或者PDF文件，<br>Markdown的语法简便易学，常用的标记符号不超过十个，快速搞定各种排版样式<br>目前支持Markdown语法的编辑器也非常多，涵盖主流的操作系统，IOS设备也有相当多的APP支持Markdown语法编辑。<br>许多网站也支持Markdown格式文本直接录入，比如国内的简书，全球最大的轻博客网站Tumblr。<br>得益于它的简洁好用，Markdown被越来越多的写作爱好者所青睐。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Markdown学习笔记&quot;&gt;&lt;a href=&quot;#Markdown学习笔记&quot; class=&quot;headerlink&quot; title=&quot;Markdown学习笔记&quot;&gt;&lt;/a&gt;Markdown学习笔记&lt;/h2&gt;&lt;h3 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>today</title>
+    <link href="http://yoursite.com/2017/01/08/today/"/>
+    <id>http://yoursite.com/2017/01/08/today/</id>
+    <published>2017-01-08T08:17:44.000Z</published>
+    <updated>2017-01-08T08:46:03.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是2017年1月8日，欢迎来到我的个人技术博客</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天是2017年1月8日，欢迎来到我的个人技术博客&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>花了半天时间终于搞出来了,真不容易</title>
+    <link href="http://yoursite.com/2016/07/09/%E8%8A%B1%E4%BA%86%E5%8D%8A%E5%A4%A9%E6%97%B6%E9%97%B4%E7%BB%88%E4%BA%8E%E6%90%9E%E5%87%BA%E6%9D%A5%E4%BA%86-%E7%9C%9F%E4%B8%8D%E5%AE%B9%E6%98%93/"/>
+    <id>http://yoursite.com/2016/07/09/花了半天时间终于搞出来了-真不容易/</id>
+    <published>2016-07-09T07:54:22.000Z</published>
+    <updated>2016-07-11T03:26:06.758Z</updated>
+    
+    <content type="html"><![CDATA[<p>#今日开通博客赶紧来发一篇文章</p><p>##这是二级标题</p><p>###这是三级标题<br>百度一下<a href="http://www.baidu.com" target="_blank" rel="external">http://www.baidu.com</a></p><blockquote><p>这里是引用</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#今日开通博客赶紧来发一篇文章&lt;/p&gt;
+&lt;p&gt;##这是二级标题&lt;/p&gt;
+&lt;p&gt;###这是三级标题&lt;br&gt;百度一下&lt;a href=&quot;http://www.baidu.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.baidu.co
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://yoursite.com/2016/07/09/My-New-Post/"/>
+    <id>http://yoursite.com/2016/07/09/My-New-Post/</id>
+    <published>2016-07-09T06:27:56.000Z</published>
+    <updated>2016-07-09T06:27:56.528Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/07/09/hello-world/"/>
+    <id>http://yoursite.com/2016/07/09/hello-world/</id>
+    <published>2016-07-09T06:24:57.183Z</published>
+    <updated>2016-07-09T06:24:57.192Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
